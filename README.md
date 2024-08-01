@@ -2,11 +2,11 @@ I you have Node.js and Yarn installed you are good to go.
 
 ### Back
 ```
-yarn
-yarn run dev
+npm i
+npm run dev
 ```
 ### Front 
 ```
-yarn 
-yarn run web
+npm i 
+npm run web
 ```
